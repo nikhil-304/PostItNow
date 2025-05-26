@@ -105,7 +105,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 🌐 Connect with me:
 - 🔗 [GitHub](https://github.com/nikhil-304)
 - 🐦 [Twitter](https://x.com/nikhilshri304)
-- 💼 [LinkedIn]https://www.linkedin.com/in/nikhil304/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nikhil304/)
 
 ## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
